@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Pirlouit\source\repos\TP4\Exercice3\main.c(14,16): warning C4013: '_getch' non défini(e) ; extern retournant int pris par défaut
+C:\Users\Pirlouit\source\repos\TP4\Exercice3\main.c(15,17): warning C4013: 'toupper' non défini(e) ; extern retournant int pris par défaut
+  Exercice3.vcxproj -> C:\Users\Pirlouit\source\repos\TP4\Debug\Exercice3.exe

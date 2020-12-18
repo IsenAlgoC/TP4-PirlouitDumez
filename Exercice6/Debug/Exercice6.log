@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Pirlouit\source\repos\TP4\Exercice6\main.c(8,20): warning C4047: '=' : les niveaux d'indirection de 'int *' et de 'int (*)[100]' sont différents
+C:\Users\Pirlouit\source\repos\TP4\Exercice6\main.c(13,12): warning C4013: 'time' non défini(e) ; extern retournant int pris par défaut
+  Exercice6.vcxproj -> C:\Users\Pirlouit\source\repos\TP4\Debug\Exercice6.exe
